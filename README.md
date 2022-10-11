@@ -9,9 +9,9 @@ scraper.py
 You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.
 
 
-## Web Scraper Project
+## Easy Rider Bus Company
 ### Filename
-scraper.py
+easy_rider.py
 
 ### Description
 You've just been hired by a bus company that started actively using the Internet for business. Before you came, their database had been updated a few times by various employees with various levels of skill. Your task is to find all the mistakes they made in the database. Good news: you have documentation, but bad news: it's incomplete. This promises to be quite an investigation!

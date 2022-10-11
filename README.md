@@ -1,7 +1,7 @@
 # jet-brains-academy
 Projects developed for JetBrains Academy certifications
 
-## Web Scraper Project
+## Project: Web Scraper
 ### Filename
 scraper.py
 
@@ -9,7 +9,7 @@ scraper.py
 You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.
 
 
-## Easy Rider Bus Company
+## Project: Easy Rider Bus Company
 ### Filename
 easy_rider.py
 

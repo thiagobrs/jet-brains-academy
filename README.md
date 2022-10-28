@@ -24,3 +24,27 @@ Stages:
 4) Find all departure stations, final stops, and transfer stops to fill in the missing specifications.
 5) Make sure that the stops follow each other and their estimated arrival times make sense.
 6) Check that there are no wrongly marked on-demand stops.
+
+
+## Project: Static Code Analyzer
+### Filename
+static_code.py
+
+### Description
+You've just been hired by a bus company that started actively using the Internet for business. Before you came, their database had been updated a few times by various employees with various levels of skill. Your task is to find all the mistakes they made in the database. Good news: you have documentation, but bad news: it's incomplete. This promises to be quite an investigation!
+
+Stages:
+
+1) Check that the types of variables match and all the required fields are filled.
+
+
+## Project: Flashcards App
+### Filename
+flashcards.py
+
+### Description
+You've just been hired by a bus company that started actively using the Internet for business. Before you came, their database had been updated a few times by various employees with various levels of skill. Your task is to find all the mistakes they made in the database. Good news: you have documentation, but bad news: it's incomplete. This promises to be quite an investigation!
+
+Stages:
+
+1) Check that the types of variables match and all the required fields are filled.
